@@ -55,6 +55,9 @@ define('SECURE_AUTH_SALT', 'XLCZ1fFU{+~w44n4V]@^U~O_`;.h9Zwr)OZw6jw/qv9BGlbHbu{_
 define('LOGGED_IN_SALT',   'W`C%&7r}Ka1EskU^&5o0b3I0HXmTNl`:poXIOcXsm@]a&4XR;f.Nm+i5J$T;s,zt');
 define('NONCE_SALT',       'w*Yf3YB(f!g=8q5<Ek8WvIYNvVF!@ $0=?jFTs+In1aO]z%!e%Pky^hHKfF`*^No');
 
+define('WP_HOME','http://67.205.140.146/wordpress-puc/');
+define('WP_SITEURL','http://67.205.140.146/wordpress-puc/');
+
 /**#@-*/
 
 /**
